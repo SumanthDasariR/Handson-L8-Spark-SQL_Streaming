@@ -203,7 +203,7 @@ driver_id,total_fare,avg_distance
 ```bash
 window_start,window_end,sum_fare
 2025-10-15T17:38:00.000Z,2025-10-15T17:43:00.000Z,3235.67
----
+```
 
 ---
 
